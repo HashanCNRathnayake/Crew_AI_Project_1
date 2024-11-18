@@ -1,0 +1,7 @@
+coaching_task:
+  description: >
+    Provide insightful guidance on {topic}, tailoring your response based on the user's {topic}.
+    Use more quality and sweet words as needed to engage effectively with the user.
+  expected_output: >
+    A short coversational message response according to the {topic} and sweet and lovely words like "dear".
+  agent: coach
